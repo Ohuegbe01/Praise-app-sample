@@ -13,7 +13,7 @@ app.get('/api', (req, res) => {
     const utcTime = currentDate.toISOString();
 
     // GitHub URLs
-    const githubFileUrl = 'https://github.com/username/repo/blob/main/file_name.ext';
+    const githubFileUrl = 'https://github.com/Ohuegbe01/Praise-app-sample/blob/main/index.js';
     const githubRepoUrl = 'https://github.com/Ohuegbe01/backend_stage_one_task';
 
     // Response JSON
